@@ -1,4 +1,4 @@
-# DELL Vostro 14 5490 Hackintosh
+# DELL Inspiron AIO 5490 Hackintosh
 EFI for Dell Inspiron 5490 AIO on OpenCore bootloader
 
 ### Specs:
