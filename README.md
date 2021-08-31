@@ -4,18 +4,15 @@ EFI for Dell Inspiron 5490 AIO on OpenCore bootloader
 ### Specs:
 Type | Details
 | -------------- |:----------------------------:|
-CPU | i5-10210U / ***i7-10510U**
+CPU | i5-10210U
 iGPU | Intel UHD 620
-dGPU | NVIDIA GeForce MX250
+dGPU | NVIDIA GeForce MX110
 Display | 1920x1080
-RAM | 20GB
-Audio | Realtek ALC3204/236
+RAM | 8GB
+Audio | Realtek ALC247
 WLAN | Intel 9462AC
-LAN | Realtek RTL8169
-SSD | 1000GB SAMSUNG 860 QVO SATA
-NVMe | 1024GB Intel SSD Pro 7600p Series
-KB | Standard PS2 Keyboard
-TP | I2C HID Trackpad
+LAN | Realtek RTL8168/8111/8112
+NVMe | KBG40ZNS512G NVMe KIOXIA 512GB
 SMBIOS | MacBookPro 15,2
 Bootloader | OpenCore 0.5.9
 ###### *version this is made from
