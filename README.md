@@ -1,4 +1,4 @@
-# DELL Inspiron AIO 5490 Hackintosh
+# DELL Inspiron 5490 AIO Hackintosh
 EFI for Dell Inspiron 5490 AIO on OpenCore bootloader
 
 ### Specs:
