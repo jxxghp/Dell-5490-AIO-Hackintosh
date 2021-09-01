@@ -25,16 +25,14 @@ Bootloader | OpenCore 0.5.9
 - [x] ALC3204/236 HDMI Audio Output
 - [x] All USB Ports Type A (2xUSB 3.0 and 1xUSB 2.0)
 - [x] SpeedStep / Sleep / Wake
-- [x] I2C Touchpad
 - [x] Intel Bluetooth Module
 - [x] Realtek RTL8169 LAN
 - [x] USB Cardreader
 - [x] ACPI Battery
 - [x] NVRAM
+- [x] Wi-Fi
+- [x] Internal Mic and Camera
 
-- [ ] Internal / External Mic and Camera (Camera works after mapping USB, but it stops working Bluetooth)
-- [ ] Wi-Fi (Using external USB module)
-- [ ] DisplayPort over Type-C / Type-C (Did not check)
 - [ ] MX250 dGPU (Not supported)
 
 ## Important Notes:
