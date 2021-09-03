@@ -33,7 +33,7 @@ Bootloader | OpenCore 0.5.9
 - [x] Wi-Fi
 - [x] Internal Mic and Camera
 
-- [ ] MX250 dGPU (Not supported)
+- [ ] MX110 dGPU (Not supported)
 
 ## Important Notes:
 - This is a **Work in Progress [WIP]**.
