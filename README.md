@@ -23,7 +23,7 @@ Bootloader | OpenCore 0.5.9
 - [x] ALC3204/236 Internal Speakers
 - [x] ALC3204/236 Native Jack Output
 - [x] ALC3204/236 HDMI Audio Output
-- [x] All USB Ports Type A (2xUSB 3.0 and 1xUSB 2.0)
+- [x] All USB Ports Type A
 - [x] SpeedStep / Sleep / Wake
 - [x] Intel Bluetooth Module
 - [x] Realtek RTL8169 LAN
