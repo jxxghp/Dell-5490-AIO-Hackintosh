@@ -18,17 +18,13 @@ Bootloader | OpenCore 0.5.9
 ###### *version this is made from
 
 ### What works and What doesn't or WIP:
-- [x] Intel UHD 620 iGPU eDP Output (with Backlight)
-- [x] Intel UHD 620 iGPU HDMI Output
-- [x] ALC3204/236 Internal Speakers
-- [x] ALC3204/236 Native Jack Output
-- [x] ALC3204/236 HDMI Audio Output
-- [x] All USB Ports Type A
+- [x] Intel UHD 620 iGPU
+- [x] ALC274 Internal Speakers
+- [x] USB Ports
 - [x] SpeedStep / Sleep / Wake
 - [x] Intel Bluetooth Module
 - [x] Realtek RTL8169 LAN
 - [x] USB Cardreader
-- [x] ACPI Battery
 - [x] NVRAM
 - [x] Wi-Fi
 - [x] Internal Mic and Camera
@@ -45,19 +41,6 @@ Bootloader | OpenCore 0.5.9
 
 ## To-do after installation:
 * Generate your SMBIOS and put info in the 'Generic' part of config.plist.
-
-## Changelog
-<details>
-<summary>Read Changelog...</summary>
-  <h4> 06/11/20 </h4>
-  <ul>
-    <li>Changed AAPL,ig-platform-id and device-id to 0x3EA50000 to fix kernel panic at 10.15.5.</li>
-  </ul>
-  <h4> 06/09/20 </h4>
-  <ul>
-    <li>First release. Repository created.</li>
-  </ul>
-</details>
 
 ## Credits
 - [Apple](https://apple.com) for macOS;
