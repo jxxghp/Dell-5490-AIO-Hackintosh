@@ -58,6 +58,8 @@
 				<integer>2</integer>
 				<key>AppleSense</key>
 				<integer>1854</integer>
+				<key>DisplayParameterHandlerUsesCharPtr</key>
+				<true/>
 				<key>DisplayProductID</key>
 				<integer>37888</integer>
 				<key>DisplayVendorID</key>
@@ -66,8 +68,9 @@
 				<string>AppleDisplay</string>
 				<key>IODisplayCapabilityString</key>
 				<data>
-				bW9kZWwoaU1hYyBDZWxsbykgdmNwKDEwIDhEIEI2IEM4
-				IEM5IERGKSB2ZXIoMi4yKQ==
+				KHByb3QoYmFja2xpZ2h0KSB0eXBlKGxlZCkgbW9kZWwo
+				aU1hYykgdmNwKDAyIDEwIDUyIDhEIEM4IEM5IERFIERG
+				IEZDIEZEIEZFKSBtY2NzX3ZlcigyLjIpKQ==
 				</data>
 				<key>IODisplayConnectFlags</key>
 				<data>
@@ -75,7 +78,7 @@
 				</data>
 				<key>IODisplayControllerID</key>
 				<data>
-				AQAAAA==
+				AgQR/w==
 				</data>
 				<key>IODisplayEDID</key>
 				<data>
@@ -90,7 +93,7 @@
 				</data>
 				<key>IODisplayFirmwareLevel</key>
 				<data>
-				AQAAAA==
+				AAACBA==
 				</data>
 				<key>IODisplayMCCSVersion</key>
 				<data>
@@ -98,10 +101,12 @@
 				</data>
 				<key>IODisplayPrefsKey</key>
 				<string>IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/IGPU@2/AppleIntelFramebuffer@1/display0/AppleDisplay-10ac-9400</string>
-				<key>IODisplayTechnologyType</key>
-				<data>
-				//8CAw==
-				</data>
+				<key>scale-resolutions</key>
+				<array>
+					<data>
+					AAAHgAAABDgAAAABACAAAA==
+					</data>
+				</array>
 			</dict>
 			<key>IgnoreDisplayPrefs</key>
 			<true/>
