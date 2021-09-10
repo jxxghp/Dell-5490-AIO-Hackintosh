@@ -5,7 +5,7 @@ EFI for Dell Inspiron 5490 AIO on OpenCore 0.63 bootloader
 Type | Details
 | -------------- |:----------------------------:|
 CPU | i5-10210U
-iGPU | Intel UHD 630
+iGPU | Intel UHD 620
 dGPU | NVIDIA GeForce MX110
 Display | 1920x1080
 RAM | 8GB
