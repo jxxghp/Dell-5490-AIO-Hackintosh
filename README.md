@@ -14,7 +14,7 @@ WLAN | Intel 9462AC
 LAN | Realtek RTL8168/8111/8112
 NVMe | KBG40ZNS512G NVMe KIOXIA 512GB
 SMBIOS | MacBookPro 15,2
-Bootloader | OpenCore 0.5.9
+Bootloader | OpenCore 0.73
 ###### *version this is made from
 
 ### What works and What doesn't or WIP:
